@@ -1,0 +1,88 @@
+h1{
+    padding: 20px;
+    margin-top: 50px;
+}
+
+ul{
+    padding-bottom: 50px;
+}
+
+.complejo{
+    height: 200px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items:flex-start;
+    background-color:cornflowerblue;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+
+.imagenes{
+    padding: 20px;
+}
+
+.fotografias{
+    padding: 30px;
+}
+
+.actividades{
+    padding: 20px;
+    background-color: cornflowerblue;
+}
+
+.estiloTitulo{
+    padding: 10px;
+}
+
+.tituloDos{
+    padding: 5px;
+}
+
+.Italica{
+    padding: 20px;
+}
+
+.ubicacion{
+    height: 200px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items:flex-start;
+    background-color:cornflowerblue;
+    padding: 30px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+.mapa{
+    padding: 30px;
+    font-size: 30px;
+}
+
+.mapa2{
+    height: 400px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.contacto{
+    padding: 20px;
+    background-color: azure;
+}
+
+footer {
+    padding: 20px;
+    background-color: darkgrey;
+}
+
+
+
